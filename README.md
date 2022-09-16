@@ -8,4 +8,4 @@ Escolha um número inteiro que não seja igual ou menor que zero. Se ele for par
  
 Fácil, né? Mas será que existe algum número que não que se enquadre nessa regra? Bem, é exatamente isso que tentam descobrir há muitos anos...
 
-Nesse programa feito inteiramente em Python, você conseguirá testar a conjectura através de duas formas: um teste manual, em você inserirá o número que deseja testar, e um teste automático, que fará a análise de todos os números possíveis! Será que você consegue encontrar o número que quebrará essa teoria? 🤔
+Nesse programa feito inteiramente em Python, você conseguirá testar a conjectura através de duas formas: um teste manual, em que você inserirá o número que deseja testar, e um teste automático que fará a análise de todos os números possíveis! Será que você consegue encontrar o número que quebrará essa teoria? 🤔
