@@ -1,4 +1,4 @@
-# Conjectura de Collatz: um problema infinito
+# A Conjectura de Collatz: um problema infinito
 
 Em 1937, o matemático Lothar Collatz formulou um dos mais infames problemas matemáticos de todos os tempos. Embora o seu enunciado seja simples, a Conjectura de Collatz nunca pode ser comprovada através de demonstrações ou cálculos, justamente pela infinidade de números que precisariam ser testados.
 
