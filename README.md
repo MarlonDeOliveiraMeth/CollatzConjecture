@@ -4,7 +4,7 @@ Em 1937, o matemático Lothar Collatz formulou um dos mais infames problemas mat
 
 A Conjectura de Collatz diz o seguinte:
 
-Escolha um número inteiro que não seja igual ou menor que zero. Se ele for par, divida-o por 2, caso contrário, multiplique-o por 3 e some 1. Pegue o resultado do cálculo e realize o mesmo procedimento descrito anteriormente. Por exemplo, se a sequência iniciar com o número 5 teremos os resultados de: 16, 8, 4, 2 e 1. Essa conjectura apresenta uma regra dizendo que qualquer número eventualmente sempre chegará a 4, que se converte em 2 e resulta em 1.
+Escolha um número inteiro que não seja igual ou menor que zero. Se ele for par, divida-o por 2, caso contrário, multiplique-o por 3 e some 1. Pegue o resultado do cálculo e realize o mesmo procedimento descrito anteriormente. Por exemplo, se a sequência iniciar com o número 5 teremos os resultados de: 16, 8, 4, 2 e 1. Essa conjectura apresenta uma regra dizendo que qualquer número escolhido sempre chegará a 4, se converterá em 2 e por fim, resultará em 1.
  
 Fácil, né? Mas será que existe algum número que não que se enquadre nessa regra? Bem, é exatamente isso que tentam descobrir há muitos anos...
 
