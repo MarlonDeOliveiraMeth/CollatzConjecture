@@ -9,3 +9,6 @@ Escolha um número inteiro que não seja igual ou menor que zero. Se ele for par
 Fácil, né? Mas será que existe algum número que não que se enquadre nessa regra? Bem, é exatamente isso que tentam descobrir há muitos anos...
 
 Nesse programa feito totalmente em Python, você conseguirá testar a conjectura através de duas formas: um teste manual, em que você inserirá o número que deseja testar, e um teste automático que fará a análise de todos os números possíveis! Será que você consegue encontrar o número que quebrará essa teoria? 🤔
+
+![collatz-capture](https://github.com/MarlonDeOliveiraMeth/CollatzConjecture/assets/82294838/5c1f2403-1893-4bd5-9cf8-a31e9bd306f1)
+
